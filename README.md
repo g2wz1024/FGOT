@@ -1,0 +1,2 @@
+# FGOT
+FGO translation compair.
